@@ -95,9 +95,9 @@ const ProfileWorth = () => {
                       alt="Meme"
                     />
                   </div>
-                  <Button type="primary" onClick={handleShare}>
+                  {/* <Button type="primary" onClick={handleShare}>
                     Share with Friends
-                  </Button>
+                  </Button> */}
                 </div>
               </div>
             </>
